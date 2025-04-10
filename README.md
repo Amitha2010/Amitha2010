@@ -4,7 +4,7 @@ I'm a passionate software developer and a coding enthusiast. I love solving prob
 
 ## 📚 Connect with me:
 - 💻 [GitHub](https://github.com/Amitha2010)
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/karuturi-amitha-ab53a9298/)
 
 
 ## 📈 Competitive Programming Profiles:
